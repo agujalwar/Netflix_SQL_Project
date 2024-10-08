@@ -6,13 +6,6 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 
 ## Objectives
 
-- Analyze the distribution of content types (movies vs TV shows).
-- Identify the most common ratings for movies and TV shows.
-- List and analyze content based on release years, countries, and durations.
-- Explore and categorize content based on specific criteria and keywords.
-
-## Objectives
-
 - Understand Content Catalog: Analyze the distribution of Movies vs. TV Shows, genres, and countries to evaluate the diversity of Netflix’s offerings.
 - Identify Content Trends: Examine release patterns over time to discover key trends in Netflix’s content production and acquisition.
 - Target Audience Analysis: Assess content ratings to determine the primary audience Netflix serves and identify potential gaps in age group or content type.
