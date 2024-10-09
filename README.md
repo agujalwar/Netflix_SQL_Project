@@ -330,3 +330,7 @@ group by Content_category
 ### Conclusion:
 Netflix’s content library is diverse, rapidly growing, and geared toward mature audiences. Expanding content for children and international regions can further strengthen its global appeal.
 
+## Author:
+Ashwini Gujalwar, Data Analyst.
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/ashwini-gujalwar)
+
