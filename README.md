@@ -300,32 +300,32 @@ group by Content_category
 ```
 ## Findings and Conclusions :
 ### Content Distribution:
-Netflix offers more Movies than TV Shows.
-Focuses on diverse content types to attract various audiences.
+- Netflix offers more Movies than TV Shows.
+- Focuses on diverse content types to attract various audiences.
 
 ### Global Content Presence:
-Dominated by content from the U.S. and India.
-Opportunity to expand content from underrepresented regions.
+- Dominated by content from the U.S. and India.
+- Opportunity to expand content from underrepresented regions.
 
 ### Release Year Trends:
-Sharp increase in content production after 2015.
-Aggressive growth in original content creation.
+- Sharp increase in content production after 2015.
+- Aggressive growth in original content creation.
 
 ### Rating Distribution:
-Primarily targets mature audiences (TV-MA, TV-14).
-Potential to expand content for younger viewers.
+- Primarily targets mature audiences (TV-MA, TV-14).
+- Potential to expand content for younger viewers.
 
 ### Genre Popularity:
-Popular genres: Documentaries, Dramas, International TV Shows.
-Diverse genres attract a wide range of viewers.
+- Popular genres: Documentaries, Dramas, International TV Shows.
+- Diverse genres attract a wide range of viewers.
 
 ### Key Contributors:
-Some directors and actors are recurring in multiple shows/movies.
-Expanding partnerships with new filmmakers could increase variety.
+- Some directors and actors are recurring in multiple shows/movies.
+- Expanding partnerships with new filmmakers could increase variety.
 
 ### Content Duration:
-Movies have standard durations; TV Shows vary widely in seasons.
-Flexibility in content length caters to different viewing habits.
+- Movies have standard durations; TV Shows vary widely in seasons.
+- Flexibility in content length caters to different viewing habits.
 
 ### Conclusion:
 Netflix’s content library is diverse, rapidly growing, and geared toward mature audiences. Expanding content for children and international regions can further strengthen its global appeal.
