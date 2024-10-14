@@ -20,6 +20,20 @@ The data for this project is sourced from the Kaggle dataset:
 ## Data Loads
 ![Dataloads](https://github.com/agujalwar/Netflix_SQL_Project/blob/main/netflix_dataload.jpeg)
 
+### Key Attributes:
+- show_id : unique identifier for rows(movies and TV shows)
+- type :namely, Movie or TV Show
+- title : name of the TV show or Movie
+- director : director name (blank in few cases)
+- cast : cast (blank in few cases)
+- country : country the show produced in (blank in few cases)
+- date_added : date the show is added on Netflix (YYYY-MM-DD)
+- release_year : year of release
+- rating : rating of the show from 18 categories (blank in few cases)
+- duration : namely, in minutes, or season
+- listed_in : genre
+- description : description text about the show
+
 ### SQL functions used
 - AVG
 - CASE
