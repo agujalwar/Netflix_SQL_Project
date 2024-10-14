@@ -20,6 +20,26 @@ The data for this project is sourced from the Kaggle dataset:
 ## Data Loads
 ![Dataloads](https://github.com/agujalwar/Netflix_SQL_Project/blob/main/netflix_dataload.jpeg)
 
+### SQL functions used
+- AVG
+- CASE
+- CAST
+- COUNT
+- EXTRACT
+- GROUP BY
+- LIMIT
+- STRING_TO_ARRAY
+- UNNEST
+- ORDER BY
+- ROUND
+- SUBSTRING
+- DISTINCT
+- MIN
+- ILIKE
+- SPLIT_PART
+- RANK()
+
+  
 ## Schema
 
 ```sql
